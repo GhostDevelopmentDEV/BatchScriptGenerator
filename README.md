@@ -11,7 +11,7 @@ Batch script generator written on C#
 > I am working to redesing BSG to newest version of .NET Framework
 
 # How to install
-There are **two** ways how to install BSG
+There are **two** ways to install BSG
 
 ## 1. Download from repository
 * Go to releases  
